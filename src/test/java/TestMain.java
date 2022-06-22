@@ -6,5 +6,6 @@ public class TestMain {
     @Test
     public void testInputIsEven(){
         assertTrue(Main.checkIfInputIsAnEvenNumber(22)); // Assertion
+        System.out.println("Commited new changes");
     }
 }
